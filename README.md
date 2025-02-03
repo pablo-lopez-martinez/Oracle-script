@@ -1,2 +1,2 @@
 # Oracle-script
-Script for pulling information from a web service an store it in an Oracle Database
+Script for pulling information from a web service and store it in an Oracle Database
